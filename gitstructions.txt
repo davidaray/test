@@ -1,0 +1,12 @@
+git instructions
+
+make a change to a script
+
+Save it
+
+in git shell
+
+git add <filename>
+git commit -m "text to describe the change"
+git push origin master
+
