@@ -10,3 +10,15 @@ git add <filename>
 git commit -m "text to describe the change"
 git push origin master
 
+
+local working directory (where you work on your files) --> staging area (where your commits are saved) --> local git repository --> github (the github website)
+
+"git add" moves a file to staging
+"git commit" moves a file to local git repository
+"git push" moves a file to github
+
+git diff # will tell you what's different between local repository and staging area
+
+fork to get your own copy of someone else's repository
+
+clone to make a copy on your local computer
